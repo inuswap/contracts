@@ -1,0 +1,7 @@
+# INU.finance Smart Contracts
+
+ShibaChef: 0x3aca5b653344ed1de61940ce6e5c7b70220caaa4
+
+ShibaToken: 0x0f35b5ef22509f64dd6f73c63e1d2d273b5dc591
+
+DogeToken: 0xcc4464d5a0e75cd69f7a5a5f45de32055ba5c4a8
